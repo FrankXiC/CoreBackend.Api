@@ -134,6 +134,5 @@ namespace CoreBackend.Api.Controllers
             productWebApiContext.SaveChanges();
             return Ok();
         }
-
     }
 }
