@@ -27,19 +27,9 @@ namespace CoreBackend.Api
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.Configure<IISOptions>(options =>
-            //{
-            //    options.ForwardClientCertificate = false;
-            //});
             services.AddMvc();
             services.AddOptions();
-            //services.AddDbContext<ProductWebApiContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.Configure<Connection>(Configuration.GetSection("ConnectionStrings"));
-            //services.AddMvc().AddMvcOptions(options =>
-            //{
-            //    options.OutputFormatters.Add(new XmlDataContractSerializerOutputFormatter());
-            //}); ; // 注册MVC到Container
-
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new Info
@@ -55,8 +45,6 @@ namespace CoreBackend.Api
                 var basePath = PlatformServices.Default.Application.ApplicationBasePath;
                 var xmlPath = Path.Combine(basePath, "CoreBackend.Api.xml");
                 c.IncludeXmlComments(xmlPath);
-
-                //  c.OperationFilter<HttpHeaderOperation>(); // 添加httpHeader参数
             });
         }
 

@@ -13551,11 +13551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\源码\\Test\\CoreBackend.Api\\CoreBackend.Api\\CoreBackend.Api.csproj",
+      "projectUniqueName": "D:\\Git Code\\CoreBackend.Api\\CoreBackend.Api\\CoreBackend.Api.csproj",
       "projectName": "CoreBackend.Api",
-      "projectPath": "D:\\源码\\Test\\CoreBackend.Api\\CoreBackend.Api\\CoreBackend.Api.csproj",
+      "projectPath": "D:\\Git Code\\CoreBackend.Api\\CoreBackend.Api\\CoreBackend.Api.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\源码\\Test\\CoreBackend.Api\\CoreBackend.Api\\obj\\",
+      "outputPath": "D:\\Git Code\\CoreBackend.Api\\CoreBackend.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
