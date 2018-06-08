@@ -1,0 +1,12 @@
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.deps.json
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.runtimeconfig.json
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.runtimeconfig.dev.json
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.dll
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.pdb
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.csproj.CoreCompileInputs.cache
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.AssemblyInfoInputs.cache
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.AssemblyInfo.cs
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.dll
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.pdb
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.csprojAssemblyReference.cache
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.xml

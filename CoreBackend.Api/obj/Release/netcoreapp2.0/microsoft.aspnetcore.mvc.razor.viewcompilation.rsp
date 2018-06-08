@@ -1,0 +1,5 @@
+D:\源码\Test\CoreBackend.Api\CoreBackend.Api
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=CoreBackend.Api
+--content-root=D:\源码\Test\CoreBackend.Api\CoreBackend.Api
+--file=
