@@ -10,3 +10,16 @@ D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBacke
 D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.pdb
 D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.csprojAssemblyReference.cache
 D:\源码\Test\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.xml
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.xml
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.deps.json
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.runtimeconfig.json
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.runtimeconfig.dev.json
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.dll
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.pdb
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.csproj.CoreCompileInputs.cache
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.AssemblyInfoInputs.cache
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.AssemblyInfo.cs
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.dll
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.pdb
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.csprojAssemblyReference.cache
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\wwwroot\swagger\ui\index.html

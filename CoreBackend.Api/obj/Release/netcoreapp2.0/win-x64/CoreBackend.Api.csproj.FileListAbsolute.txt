@@ -9,3 +9,14 @@ D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\win-x64
 D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\win-x64\CoreBackend.Api.AssemblyInfo.cs
 D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\win-x64\CoreBackend.Api.dll
 D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\win-x64\CoreBackend.Api.pdb
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Release\netcoreapp2.0\win-x64\CoreBackend.Api.deps.json
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Release\netcoreapp2.0\win-x64\CoreBackend.Api.runtimeconfig.json
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Release\netcoreapp2.0\win-x64\CoreBackend.Api.runtimeconfig.dev.json
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Release\netcoreapp2.0\win-x64\CoreBackend.Api.dll
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Release\netcoreapp2.0\win-x64\CoreBackend.Api.pdb
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\win-x64\CoreBackend.Api.csprojAssemblyReference.cache
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\win-x64\CoreBackend.Api.csproj.CoreCompileInputs.cache
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\win-x64\CoreBackend.Api.AssemblyInfoInputs.cache
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\win-x64\CoreBackend.Api.AssemblyInfo.cs
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\win-x64\CoreBackend.Api.dll
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\win-x64\CoreBackend.Api.pdb

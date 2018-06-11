@@ -19,7 +19,7 @@ namespace CoreBackend.Api.Controllers
         {
             conn = option.Value;
         }
-        //获取所有的产品
+        #region 获取所有的产品
         [HttpGet("GetProducts")]
         public IActionResult GetProducts()
         {
@@ -27,10 +27,11 @@ namespace CoreBackend.Api.Controllers
             var products = (from p in productWebApiContext.Product select p).ToList();
             return Ok(products);
         }
+        #endregion
 
         #region 通过Id get 产品
         [HttpGet("GetProductByid/{id}")]
-        public IActionResult GetProduct(int id)
+        public IActionResult GetProductByid(int id)
         {
             ProductWebApiContext productWebApiContext = new ProductWebApiContext(conn.DefaultConnection);
             //List<Product> products = (from p in productWebApiContext.Product where p.Id==id select p).ToList();
@@ -76,6 +77,7 @@ namespace CoreBackend.Api.Controllers
         //}
         #endregion
 
+        #region 新增产品
         [HttpPost("InsertProductsById")]
         public IActionResult InsertProductsById([FromBody] Product product)
         {
@@ -100,7 +102,9 @@ namespace CoreBackend.Api.Controllers
             productWebApiContext.SaveChanges();
             return Ok(newProduct);
         }
+        #endregion
 
+        #region 根据产品id修改产品
         [HttpPut("ModifiedProductsById/{id}")]
         public IActionResult ModifiedProductsById(int id, [FromBody] Product product)
         {
@@ -123,8 +127,9 @@ namespace CoreBackend.Api.Controllers
             }
             return Ok(products);
         }
+        #endregion
 
-
+        #region 根据id删除产品
         [HttpDelete("DeleteProductsById/{id}")]
         public IActionResult DeleteProductsById(int id)
         {
@@ -134,5 +139,6 @@ namespace CoreBackend.Api.Controllers
             productWebApiContext.SaveChanges();
             return Ok();
         }
+        #endregion
     }
 }
