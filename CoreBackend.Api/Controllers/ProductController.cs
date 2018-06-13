@@ -14,11 +14,16 @@ namespace CoreBackend.Api.Controllers
     [Route("api/[controller]")]
     public class ProductController : Controller
     {
+        #region 数据库连接
+
         public Connection conn;
         public ProductController(IOptions<Connection> option)
         {
             conn = option.Value;
         }
+
+        #endregion
+
         #region 获取所有的产品
         [HttpGet("GetProducts")]
         public IActionResult GetProducts()
