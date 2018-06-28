@@ -10,6 +10,7 @@ D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBacke
 D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.pdb
 D:\源码\Test\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.csprojAssemblyReference.cache
 D:\源码\Test\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.xml
+D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\wwwroot\swagger\ui\index.html
 D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.xml
 D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.deps.json
 D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\CoreBackend.Api.runtimeconfig.json
@@ -22,4 +23,3 @@ D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.
 D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.dll
 D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.pdb
 D:\Git Code\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.0\CoreBackend.Api.csprojAssemblyReference.cache
-D:\Git Code\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.0\wwwroot\swagger\ui\index.html
